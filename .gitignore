@@ -1,0 +1,9 @@
+data/
+.ipynb_checkpoints/
+Freight_Cost_Prediction/.ipynb_checkpoints/
+invoice_flagging/.ipynb_checkpoints/
+inference/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+__pycache__/
+.venv/
+env/
